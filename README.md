@@ -31,7 +31,7 @@
 
 - 📚 In my free time, I do courses to upgrade my skills and earn certifications & swags.
 
-- :mailbox:How to reach me: cse.20201027@gmail.com
+- :mailbox:How to reach me: cse.20201010@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
