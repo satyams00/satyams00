@@ -1,6 +1,6 @@
 <div id="header" align="center">  
   <h1>
-  Hey, There I am VIPUL
+  Hey, There I am SATYAM KUMAR SINGH
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
