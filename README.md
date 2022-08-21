@@ -12,7 +12,7 @@
   <div id="badges">
   <a href="https://www.linkedin.com/in/satyam-kumar-singh-381977203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/Ssatyam2000">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -40,7 +40,7 @@
   
 
 ### :fire: My Stats :
-![VIPUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipul-027&show_icons=true&theme=great-gatsby)
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipul-027&show_icons=true&theme=great-gatsby)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vipul-027&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-027&layout=compact&theme=vision-friendly-dark)](https://github.com/vipul-027/github-readme-stats)
